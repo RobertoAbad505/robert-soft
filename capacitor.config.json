@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "RobertSoft",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
